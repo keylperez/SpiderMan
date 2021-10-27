@@ -1,0 +1,23 @@
+{
+  "name": "spiderman",
+  "version": "1.0.0",
+  "description": "discord bot for my discord server: https://discord.gg/6EJYv5Y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keylperez/SpiderMan.git"
+  },
+  "author": "keylperez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keylperez/SpiderMan/issues"
+  },
+  "homepage": "https://github.com/keylperez/SpiderMan#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0"
+  }
+}
